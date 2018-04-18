@@ -1,6 +1,6 @@
 <template>
   <footer>
-      <a href="https://github.com/BYU-CS260-Winter-2018/creative-5-cslaugh5">Repository</a>
+      <a href="https://github.com/cslaugh5/creative-5-cslaugh5">Repository</a>
   </footer>
 </template>
 
